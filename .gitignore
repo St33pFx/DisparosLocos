@@ -1,0 +1,42 @@
+# =========================
+# Unity
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Crashlytics
+sysinfo.txt
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Rider / ReSharper
+*.user
+*.userprefs
+*.suo
+
+# Unity cache
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+
+# Streaming Assets cache
+Assets/StreamingAssets/*.manifest
+Assets/StreamingAssets/*.meta
